@@ -13,7 +13,7 @@ This is a collaborative School project I did with a few other Queens Engineering
 - Qkits Buzzer
 #+CAPTION: Racoon Deterrant Device Hardware setup and wiring.
 #+NAME: fig:SED-HR4049
-[[~/School/APSC200/RacoonDeterrant/wiring.jpg]]
+[[wiring.jpg]]
 ** Server and Hosting
 - Some virtual private server, single board computer (e.g. raspberrypi), etc.
 - Domain Name (optional)
