@@ -1,0 +1,26 @@
+#+Options: toc:nil 
+* APSC200 P2 Project (Queens University Electrical and Computer Engineering)
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+This is a collaborative School project I did with a few other Queens Engineering students. The final product is a "racoon deterrant" that activates a buzzer and sends the activation time through the arduino's network time protocols to a network-attatched device through the POST method.
+** Hardware
+- Arduino Uno Wi-Fi R3
+- Bread Board
+- Grove Human Presence Sensor
+- Battery
+- x2 220 Ohm Resistors
+- Qkits Buzzer
+#+CAPTION: Racoon Deterrant Device Hardware setup and wiring.
+#+NAME: fig:SED-HR4049
+[[~/School/APSC200/RacoonDeterrant/wiring.jpg]]
+** Server and Hosting
+- Some virtual private server, single board computer (e.g. raspberrypi), etc.
+- Domain Name (optional)
+** Contact
+| Jordan Herzstein | 19jfh1@queensu.ca   |
+| Helen Xu         | helen.xu@queensu.ca |
+| Kyle Deverell    | 19kegd@queensu.ca   |
+| Eduardo Pena     | 19ejpg@queensu.ca   |
+| Stephen Young    | 18sy48@queensu.ca   |
+
