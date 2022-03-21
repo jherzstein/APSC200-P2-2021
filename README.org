@@ -17,10 +17,3 @@ This is a collaborative School project I did with a few other Queens Engineering
 ** Server and Hosting
 - Some virtual private server, single board computer (e.g. raspberrypi), etc.
 - Domain Name (optional)
-** Credit
-| Jordan Herzstein | 
-| Helen Xu         | 
-| Kyle Deverell    | 
-| Eduardo Pena     | 
-| Stephen Young    | 
-
