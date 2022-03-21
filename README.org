@@ -17,10 +17,10 @@ This is a collaborative School project I did with a few other Queens Engineering
 ** Server and Hosting
 - Some virtual private server, single board computer (e.g. raspberrypi), etc.
 - Domain Name (optional)
-** Contact
-| Jordan Herzstein | 19jfh1@queensu.ca   |
-| Helen Xu         | helen.xu@queensu.ca |
-| Kyle Deverell    | 19kegd@queensu.ca   |
-| Eduardo Pena     | 19ejpg@queensu.ca   |
-| Stephen Young    | 18sy48@queensu.ca   |
+** Credit
+| Jordan Herzstein | 
+| Helen Xu         | 
+| Kyle Deverell    | 
+| Eduardo Pena     | 
+| Stephen Young    | 
 
