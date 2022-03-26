@@ -4,7 +4,7 @@
 :UNNUMBERED: notoc
 :END:
 This is a collaborative School project I did with a few other Queens Engineering students. The final product is a "racoon deterrant" that activates a buzzer and sends the activation time through the arduino's network time protocols to a network-attatched device through the POST method.
-** Hardware
+** Device Hardware
 - Arduino Uno Wi-Fi R3
 - Bread Board
 - Grove Human Presence Sensor
